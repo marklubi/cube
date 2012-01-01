@@ -1,3 +1,8 @@
+# Modifications
+
+This fork of Cube has been modified slightly to allow the collection of data from events using a simple POST request.
+
+
 # Cube
                    __
                   /\ \
